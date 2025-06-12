@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ChristineDing%20/Python%20Projects/churn%20prediction/mlruns/0/33c1d4ca9fcd4524a3adc864de866190/artifacts
+end_time: 1749729191117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33c1d4ca9fcd4524a3adc864de866190
+run_name: Churn Prediction - base_features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749729187694
+status: 3
+tags: []
+user_id: dingkelly

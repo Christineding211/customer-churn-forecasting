@@ -1,0 +1,2 @@
+tenure,Monthly Charges,Total Charges,Gender,"Senior Citizen (0=否, 1=是)","Partner (0=否, 1=是)","Dependents (0=否, 1=是)",High Charges Flag,Contract Type,Internet Service,Payment Method,Number of Services,Charge Bin Ordinal,Tenure Group Ordinal,output,timestamp
+20,75,3500,Male,0,0,0,1,One year,DSL,Credit card (automatic),4,2,2,❌ 錯誤：invalid literal for int() with base 10: 'Credit card (automatic)',2025-06-04 21:24:09.359060

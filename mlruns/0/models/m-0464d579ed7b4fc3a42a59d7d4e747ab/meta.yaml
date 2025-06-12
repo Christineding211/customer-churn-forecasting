@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ChristineDing%20/Python%20Projects/churn%20prediction/mlruns/0/models/m-0464d579ed7b4fc3a42a59d7d4e747ab/artifacts
+creation_timestamp: 1749729191153
+experiment_id: '0'
+last_updated_timestamp: 1749729192417
+model_id: m-0464d579ed7b4fc3a42a59d7d4e747ab
+model_type: null
+name: logistic_model
+source_run_id: d013a1de80ef47f98a1c7d5c0eeca413
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ChristineDing%20/Python%20Projects/churn%20prediction/mlruns/0/models/m-9b78e64920564996a70b098b658c4b6c/artifacts
+creation_timestamp: 1749729189708
+experiment_id: '0'
+last_updated_timestamp: 1749729191115
+model_id: m-9b78e64920564996a70b098b658c4b6c
+model_type: null
+name: xgb_model
+source_run_id: 33c1d4ca9fcd4524a3adc864de866190
+status: 2
+status_message: null
