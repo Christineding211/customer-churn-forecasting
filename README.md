@@ -39,5 +39,15 @@
 - **Predictive Impact**: Achieved 79% recall, identifying the majority of actual churners. Assuming a 25% retention success rate for targeted interventions, the model could potentially reduce overall churn by approximately 20%.  
 
 
+## Visualisations
+
+![image](https://github.com/user-attachments/assets/06a2e4b5-0722-4f4a-b494-687e15f1b192)
+
+
+![image](https://github.com/user-attachments/assets/ae0f0393-37d3-4342-b9cc-eab3569a1804)
+
+
+
+![image](https://github.com/user-attachments/assets/3f03892d-668a-4fcd-a38b-5f6567a01e54)
 
 
