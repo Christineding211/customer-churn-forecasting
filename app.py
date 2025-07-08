@@ -5,8 +5,8 @@ import joblib
 import os
 
 # 1. Check model and scaler files
-assert os.path.exists("logistic_model.joblib"), "❌ Model file not found."
-assert os.path.exists("scaler.joblib"), "❌ Scaler file not found."
+assert os.path.exists("logistic_model.joblib"), " Model file not found."
+assert os.path.exists("scaler.joblib"), "Scaler file not found."
 
 # 2. Load model and scaler
 model = joblib.load("logistic_model.joblib")
@@ -53,7 +53,7 @@ def predict_churn(tenure, monthly_charges, total_charges,
         return f"📉 Predicted Churn Probability: {prob:.2%}"
 
     except Exception as e:
-        return f"❌ Error: {str(e)}"
+        return f" Error: {str(e)}"
 
 # 4. Gradio UI
 ui = gr.Interface(
@@ -74,7 +74,7 @@ ui = gr.Interface(
         gr.Slider(0, 3, step=1, label="Tenure Group (Ordinal)")
     ],
     outputs="text",
-    title="📊 Customer Churn Prediction",
+    title="Customer Churn Prediction",
     description="Enter customer information to estimate their probability of churn."
 )
 
