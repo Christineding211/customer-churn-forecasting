@@ -1,7 +1,10 @@
-# Churn Prediction for Telecom Customers Using Logistic Regression and XGBoost
+# 📉 Churn Prediction for Telecom Customers Using Logistic Regression and XGBoost
+
+### An end-to-end machine learning project to identify at-risk customers and improve customer retention strategies.  This project covers data cleaning, EDA, feature engineering, model building, experiment tracking, and deployment.
 
 
-## Business Objective
+
+## 🎯 Business Objective
 ### To uncover the main reasons behind customer churn and develop predictive models that spot at-risk customers early. This allows the business to take proactive steps to retain customers, improve retention strategies, and enhance long-term customer value
 
 
