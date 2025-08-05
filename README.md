@@ -41,6 +41,11 @@
 - **Early Warning**: Tenure and monthly charges serve as useful early indicators.
 - **Predictive Impact**: Achieved 79% recall, identifying the majority of actual churners. Assuming a 25% retention success rate for targeted interventions, the model could potentially reduce overall churn by approximately 20%.  
 
+## 🚀 Key Tools & Technologies
+
+`Python` • `Pandas` • `Seaborn` • `XGBoost` • `scikit-learn` • `MLflow` • `Gradio` • `Hugging Face Spaces`
+
+---
 
 ## Visualisations
 
